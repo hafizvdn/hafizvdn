@@ -68,5 +68,5 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 <p align="center">
   <a href="https://github.com/hafizvdn?tab=followers"><img src="https://img.shields.io/github/followers/hafizvdn?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"></a> 
   &nbsp; &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=hafizvdn&color=blueviolet" alt="Profile views">
 </p>
