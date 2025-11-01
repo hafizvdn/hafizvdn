@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋,Welcome
 
 
-**hafizvdn/hafizvdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, my naem is Wan Ahmad Hafizuddin.I'm from IIUM, bachalor in Computer Science and major in Data Science
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-
-![Uploading udin.png…]()
