@@ -60,7 +60,7 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 
 | Contact Method | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://linkedin.com/in/YourProfileName] |
+| **LinkedIn** | [https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/] |
 | **Personal Site** | [https://YourPersonalWebsite.com] |
 | **Email** | `wanamdhafizuddin@gmail.com` |
 
