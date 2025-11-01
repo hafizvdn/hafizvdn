@@ -14,11 +14,11 @@ I leverage a modern stack to build robust applications, from concept to deployme
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `JavaScript/TypeScript`, `Go`, `SQL` |
-| **Frontend** | `React`, `Next.js`, `Vue.js`, `Tailwind CSS` |
-| **Backend** | `Node.js (Express)`, `Django/Flask`, `REST APIs` |
-| **Databases** | `PostgreSQL`, `MongoDB`, `Redis` |
-| **DevOps & Cloud** | `Docker`, `Kubernetes`, `AWS / Azure`, `Git`, `CI/CD` |
+| **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL` |
+| **Frontend** | `React`, `Flutter` |
+| **Backend** | `Firebase` |
+| **Databases** ||
+| **DevOps & Cloud** |`Git`|
 
 ---
 
@@ -50,8 +50,8 @@ Here are a few projects that best represent my work and capabilities.
 I am committed to consistent coding and learning. Here are my latest statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=cobalt&hide_title=true" alt="Wan Ahmad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=cobalt&langs_count=6&hide_title=true" alt="Wan Ahmad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizvdn&show_icons=true&theme=cobalt&hide_title=true" alt="Wan Ahmad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizvdn&layout=compact&theme=cobalt&langs_count=6&hide_title=true" alt="Wan Ahmad's Top Languages" />
 </p>
 
 ---
@@ -62,11 +62,11 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 | :--- | :--- |
 | **LinkedIn** | [https://linkedin.com/in/YourProfileName] |
 | **Personal Site** | [https://YourPersonalWebsite.com] |
-| **Email** | `Your.Email@example.com` |
+| **Email** | `wanamdhafizuddin@gmail.com` |
 
 <br>
 <p align="center">
-  <a href="https://github.com/[YOUR_USERNAME]?tab=followers"><img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"></a> 
+  <a href="https://github.com/hafizvdn?tab=followers"><img src="https://img.shields.io/github/followers/hafizvdn?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"></a> 
   &nbsp; &nbsp;
   <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=blueviolet" alt="Profile views">
 </p>
