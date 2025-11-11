@@ -1,4 +1,4 @@
-# Hi, I'm **WAN AHMAD** 👋
+# Hi, I'm **WAN AHMAD HAFIZUDDIN ** 👋
 
 ### 👨‍💻 Full-Stack Developer | Building Scalable Solutions & Elegant UIs
 
