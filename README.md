@@ -4,7 +4,7 @@
 
 > **Hello, let's connect and build something great together!**
 >
-> I am a passionate developer with a background in **[Your Field - e.g., cloud architecture, financial tech, mobile development]**. My primary focus is on transforming complex business requirements into clean, high-performance software. I thrive on problem-solving and continually learning new technologies to deliver value.
+> I am a passionate developer with a background in Data Science. My primary focus is on transforming complex business requirements into clean, high-performance software. I thrive on problem-solving and continually learning new technologies to deliver value.
 
 ---
 
@@ -16,8 +16,7 @@ I leverage a modern stack to build robust applications, from concept to deployme
 | :--- | :--- |
 | **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL` |
 | **Frontend** | `React`, `Flutter` |
-| **Backend** | `Firebase` |
-| **Databases** ||
+| **Databases** |`Firebase` |
 | **DevOps & Cloud** |`Git`|
 
 ---
@@ -26,22 +25,22 @@ I leverage a modern stack to build robust applications, from concept to deployme
 
 Here are a few projects that best represent my work and capabilities.
 
-### 1. [Project Name 1: e.g., E-commerce API Service]
-* **Description:** A highly scalable microservice backend for a multi-vendor marketplace.
-* **Tech Stack:** `Python` | `Django Rest Framework` | `PostgreSQL` | `Docker`
-* **Repository:** [Link to your repo for Project 1]
-* **Live Demo:** [Link to a live demo or video walkthrough]
+### 1. [Project Name 1]
+* **Description:** 
+* **Tech Stack:** 
+* **Repository:** 
+* **Live Demo:** 
 
-### 2. [Project Name 2: e.g., Real-time Dashboard]
-* **Description:** A dynamic, responsive dashboard application to visualize financial data in real-time.
-* **Tech Stack:** `React` | `TypeScript` | `Chart.js` | `MongoDB`
-* **Repository:** [Link to your repo for Project 2]
-* **Live Demo:** [Link to a live demo or video walkthrough]
+### 2. [Project Name 2]
+* **Description:** 
+* **Tech Stack:** 
+* **Repository:** 
+* **Live Demo:** 
 
-### 3. [Project Name 3: e.g., CLI Automation Tool]
-* **Description:** A command-line utility designed to automate cloud deployment routines, significantly reducing setup time.
-* **Tech Stack:** `Go` | `AWS SDK` | `Bash`
-* **Repository:** [Link to your repo for Project 3]
+### 3. [Project Name 3]
+* **Description:** 
+* **Tech Stack:** 
+* **Repository:** 
 
 ---
 
@@ -61,7 +60,7 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 | Contact Method | Link |
 | :--- | :--- |
 | **LinkedIn** | https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/ |
-| **Personal Site** | [] |
+| **Personal Site** ||
 | **Email** | `wanamdhafizuddin@gmail.com` |
 
 <br>
