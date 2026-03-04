@@ -25,22 +25,11 @@ I leverage a modern stack to build robust applications, from concept to deployme
 
 Here are a few projects that best represent my work and capabilities.
 
-### 1. [Project Name 1]
+### 1. HifzAI-AI Powered Quran Memorization Application
 * **Description:** 
-* **Tech Stack:** 
+* **Tech Stack:** Python, Flutter, WhisperAI
 * **Repository:** 
 * **Live Demo:** 
-
-### 2. [Project Name 2]
-* **Description:** 
-* **Tech Stack:** 
-* **Repository:** 
-* **Live Demo:** 
-
-### 3. [Project Name 3]
-* **Description:** 
-* **Tech Stack:** 
-* **Repository:** 
 
 ---
 
