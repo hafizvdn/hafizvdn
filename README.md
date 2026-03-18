@@ -1,6 +1,6 @@
 # Hi, I'm WAN AHMAD HAFIZUDDIN  👋
 
-### 👨‍💻 Full-Stack Developer | Building Scalable Solutions & Elegant UIs
+### 👨‍💻 Developer, Building Scalable Solutions & Elegant UIs
 
 > **Hello, let's connect and build something great together!**
 >
@@ -15,7 +15,7 @@ I leverage a modern stack to build robust applications, from concept to deployme
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL` |
-| **Frontend** | `React`, `Flutter` |
+| **Frontend** | `React`, `Flutter`, `Laravel` |
 | **Databases** |`Firebase` |
 | **DevOps & Cloud** |`Git`|
 
@@ -29,7 +29,7 @@ Here are a few projects that best represent my work and capabilities.
 * **Description:** 
 * **Tech Stack:** Python, Flutter, WhisperAI
 * **Repository:** 
-* **Live Demo:** 
+* **Live Demo:** https://youtu.be/RFzqLCCovmc?si=pj0KqVpxr5MA_Wvo
 
 ---
 
@@ -49,7 +49,7 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 | Contact Method | Link |
 | :--- | :--- |
 | **LinkedIn** | https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/ |
-| **Personal Site** ||
+| **Personal Site** |`hafizvdn.com`|
 | **Email** | `wanamdhafizuddin@gmail.com` |
 
 <br>
