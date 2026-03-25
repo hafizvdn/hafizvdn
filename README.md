@@ -14,9 +14,9 @@ I leverage a modern stack to build robust applications, from concept to deployme
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL` |
+| **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL`, `PhP` |
 | **Frontend** | `React`, `Flutter`, `Laravel` |
-| **Databases** |`Firebase` |
+| **Databases** |`Firebase` ,`MariaDB`|
 | **DevOps & Cloud** |`Git`|
 
 ---
