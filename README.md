@@ -1,4 +1,4 @@
-# Hi, I'm WAN AHMAD HAFIZUDDIN  👋
+# Hi, I'm Wan Ahmad Hafizuddin 👋
 
 ### 👨‍💻 Developer, Building Scalable Solutions & Elegant UIs
 
