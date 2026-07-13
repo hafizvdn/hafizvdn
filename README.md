@@ -16,8 +16,8 @@ I leverage a modern stack to build robust applications, from concept to deployme
 | :--- | :--- |
 | **Languages** | `Python`, `Dart`, `JS`, `Java`, `C`, `SQL`, `PhP` |
 | **Frontend** | `React`, `Flutter`, `Laravel` |
-| **Databases** |`Firebase` ,`MariaDB`|
-| **DevOps & Cloud** |`Git`|
+| **Databases** |`Firebase` ,`MariaDB`,`SQLite`|
+| **DevOps & Cloud** |`Git`,`Docker`,`IIS`|
 
 ---
 
@@ -30,9 +30,13 @@ Here are a few projects that best represent my work and capabilities.
 * **Tech Stack:** Python, Flutter, WhisperAI
 * **Repository:** 
 * **Live Demo:** https://youtu.be/RFzqLCCovmc?si=pj0KqVpxr5MA_Wvo
-
 ---
-
+### 2. waninvoice Invoice tarcking system for internal use
+* **Description:** 
+* **Tech Stack:** Laravel
+* **Repository:** 
+* **Live Demo:** Otw
+---
 ## 📈 My GitHub Activity
 
 I am committed to consistent coding and learning. Here are my latest statistics:
