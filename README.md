@@ -18,7 +18,7 @@ I leverage a modern stack to build robust applications, from concept to deployme
 | **Frontend** | `React`, `Flutter`, `Laravel` |
 | **Databases** |`Firebase` ,`MariaDB`,`SQLite`|
 | **DevOps & Cloud** |`Git`,`Docker`,`IIS`|
-
+| **Python Library**|'OpenCV','pdfplumber','','',|
 ---
 
 ## ✨ Featured Projects
@@ -62,4 +62,3 @@ I am committed to consistent coding and learning. Here are my latest statistics:
   &nbsp; &nbsp;
   <img src="https://komarev.com/ghpvc/?username=hafizvdn&color=blueviolet" alt="Profile views">
 </p>
-
