@@ -18,7 +18,7 @@ I leverage a modern stack to build robust applications, from concept to deployme
 | **Frontend** | `React`, `Flutter`, `Laravel` |
 | **Databases** |`Firebase` ,`MariaDB`,`SQLite`|
 | **DevOps & Cloud** |`Git`,`Docker`,`IIS`|
-| **Python Library**|'OpenCV','pdfplumber','','',|
+| **Python Library**|`OpenCV`,`pdfplumber`,``,``,|
 ---
 
 ## ✨ Featured Projects
