@@ -4,7 +4,7 @@
 
 > **Hello, let's connect and build something great together!**
 >
-> I am a passionate developer with a background in Data Science. My primary focus is on transforming complex business requirements into clean, high-performance software. I thrive on problem-solving and continually learning new technologies to deliver value.
+> I am a passionate developer with a background in Data Science. My primary focus is on transforming complex business requirements into clean, high-performance software. I thrive on problem-solving and continually learning new technologies to deliver value.you can see my personal website...[hafizvdn](https://hafizvdn.dev/)
 
 ---
 
@@ -53,7 +53,7 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 | Contact Method | Link |
 | :--- | :--- |
 | **LinkedIn** | https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/ |
-| **Personal Site** |`hafizvdn.com`|
+| **Personal Site** |`hafizvdn.dev`|
 | **Email** | `wanamdhafizuddin@gmail.com` |
 
 <br>
