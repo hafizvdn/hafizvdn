@@ -29,7 +29,7 @@ Here are a few projects that best represent my work and capabilities.
 * **Description:** 
 * **Tech Stack:** Python, Flutter, WhisperAI
 * **Repository:** 
-* **Live Demo:** https://youtu.be/RFzqLCCovmc?si=pj0KqVpxr5MA_Wvo
+* **Live Demo:** [youtube](https://youtu.be/RFzqLCCovmc?si=pj0KqVpxr5MA_Wvo)
 ---
 ### 2. waninvoice Invoice tarcking system for internal use
 * **Description:** 
@@ -52,7 +52,7 @@ I am committed to consistent coding and learning. Here are my latest statistics:
 
 | Contact Method | Link |
 | :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/ |
+| **LinkedIn** | [Wan Ahmad Hafizuddin](https://www.linkedin.com/in/wan-ahmad-hafizuddin-428b98337/) |
 | **Personal Site** |[hafizvdn.dev](https://hafizvdn.dev/)|
 | **Email** | `wanamdhafizuddin@gmail.com` |
 
